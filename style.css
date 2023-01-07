@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: brown;
+  color: aquamarine;
+  text-align: center;
+  padding-top: 10em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: large;
+}

@@ -1,0 +1,5 @@
+[
+  { "stack": "java", "author": "kunle", "age": 30 },
+  { "stack": "c#", "author": "udoka", "age": 34 },
+  { "stack": "nodejs", "author": "Tobi", "age": 28 }
+]

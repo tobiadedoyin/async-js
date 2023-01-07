@@ -1,0 +1,6 @@
+[
+  { "name": "esther", "dept": "accounting", "year": 2014 },
+  { "name": "Tobi", "dept": "elect eng", "year": 2014 },
+  { "name": "mathew", "dept": "slt", "year": 2014 },
+  { "name": "funmi", "dept": "fse", "year": 2022 }
+]
